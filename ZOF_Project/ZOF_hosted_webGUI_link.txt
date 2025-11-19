@@ -1,0 +1,47 @@
+================================================================================
+        ZERO OF FUNCTIONS (ZOF) SOLVER - DEPLOYMENT INFORMATION
+================================================================================
+
+Name: [Your Full Name]
+
+Matric Number: [Your Matric Number]
+
+Live URL: [Your Deployed Application URL]
+Example: https://zof-solver.onrender.com
+         https://yourusername.pythonanywhere.com
+         https://zof-solver.streamlit.app
+
+GitHub Repository: [Your GitHub Repository URL]
+Example: https://github.com/yourusername/ZOF_Project
+
+================================================================================
+DEPLOYMENT INSTRUCTIONS:
+================================================================================
+
+1. RENDER (Recommended for Flask apps):
+   - Create account at https://render.com
+   - Connect your GitHub repository
+   - Create new Web Service
+   - Build Command: pip install -r requirements.txt
+   - Start Command: gunicorn app:app
+   - Add gunicorn to requirements.txt
+
+2. PYTHONANYWHERE:
+   - Create account at https://www.pythonanywhere.com
+   - Upload files via Files tab
+   - Configure web app in Web tab
+   - Set working directory and WSGI configuration
+
+3. HEROKU:
+   - Create account at https://heroku.com
+   - Install Heroku CLI
+   - Create Procfile: web: gunicorn app:app
+   - Deploy: git push heroku main
+
+================================================================================
+NOTES:
+- Ensure all dependencies are listed in requirements.txt
+- Test locally before deployment
+- Update this file with actual deployment URLs
+================================================================================
+
