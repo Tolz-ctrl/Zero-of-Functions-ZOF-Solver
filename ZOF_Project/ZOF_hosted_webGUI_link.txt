@@ -2,16 +2,16 @@
         ZERO OF FUNCTIONS (ZOF) SOLVER - DEPLOYMENT INFORMATION
 ================================================================================
 
-Name: [Your Full Name]
+Name: [Toluwani Onipede]
 
-Matric Number: [Your Matric Number]
+Matric Number: [22CG031936]
 
-Live URL: [Your Deployed Application URL]
+Live URL: [https://zero-of-functions-zof-solver-9wbnq4dreepkxmgmzjr5bb.streamlit.app/]
 Example: https://zof-solver.onrender.com
          https://yourusername.pythonanywhere.com
          https://zof-solver.streamlit.app
 
-GitHub Repository: [Your GitHub Repository URL]
+GitHub Repository: [https://github.com/Tolz-ctrl/Zero-of-Functions-ZOF-Solver.git]
 Example: https://github.com/yourusername/ZOF_Project
 
 ================================================================================
